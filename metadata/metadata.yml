@@ -1,0 +1,14 @@
+metadata_version: 1
+name: STAR Generate Genome Index
+description: |-
+  Generates necessary files to run STAR alignment. Genome files comprise binary genome sequence, suffix arrays, text chromosome names/lengths, splice junctions coordinates, and transcripts/genes information. Most of these files use internal STAR format and are not intended to be utilized by the end user.
+
+  https://github.com/alexdobin/STAR
+tags:
+- Genomics
+- Bulk Sequencing
+- Utilities
+- RNA
+- STAR
+authors:
+- name: June Snedecor
