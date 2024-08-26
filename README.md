@@ -1,7 +1,3 @@
-[![Code Ocean Logo](images/CO_logo_135x72.png)](http://codeocean.com/product)
-
-<hr>
-
 # STAR Index
 
 Generates index for use in STAR RNA alignment. See [STAR Manual](https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf) for more details.
@@ -63,8 +59,3 @@ Length of sequence on either side of junctions
 
 
 Output directory: Location to save STAR index. [default: ../results/star_index]
-
-<hr>
-
-[Code Ocean](https://codeocean.com/) is a cloud-based computational platform that aims to make it easy for researchers to share, discover, and run code.<br /><br />
-[![Code Ocean Logo](images/CO_logo_68x36.png)](https://www.codeocean.com)
